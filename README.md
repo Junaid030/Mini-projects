@@ -1,3 +1,4 @@
 # Mini-projects
 
-Here I upload some of the mini projects that I will create. 
+This is a where you will find the mini projects created by me.
+
